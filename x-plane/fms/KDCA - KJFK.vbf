@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SerializableFltPlan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SerializedSIDPlan>
+    <AirportIdentifier>KDCA</AirportIdentifier>
+    <Name>DOCTR3</Name>
+    <RunwayName>RW01</RunwayName>
+    <EnrouteTransitionName>AGARD</EnrouteTransitionName>
+    <RunwayTransitionSIDId>9233</RunwayTransitionSIDId>
+    <CommonRouteSIDId>0</CommonRouteSIDId>
+    <EnrouteTransitionSIDId>9238</EnrouteTransitionSIDId>
+    <AltitudeConstrainedWaypoints />
+    <AboveAltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypointIdentifiers />
+    <AtOrBelowAltitudeConstraints />
+  </SerializedSIDPlan>
+  <SerializedSTARPlan>
+    <AirportIdentifier>KJFK</AirportIdentifier>
+    <Name>CAMRN4</Name>
+    <RunwayName>RW04L</RunwayName>
+    <EnrouteTransitionName>SIE</EnrouteTransitionName>
+    <RunwayTransitionSTARId>0</RunwayTransitionSTARId>
+    <CommonRouteSTARId>10252</CommonRouteSTARId>
+    <EnrouteTransitionSTARId>0</EnrouteTransitionSTARId>
+    <AltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstraints>
+      <int>0</int>
+    </AtOrAboveAltitudeConstraints>
+    <AtOrAboveAltitudeConstraintedWpts />
+  </SerializedSTARPlan>
+  <SerializedAPPRPlan>
+    <AirportIdentifier>KJFK</AirportIdentifier>
+    <Name>I04L</Name>
+    <Type>ILS</Type>
+    <RunwayName>RW04L</RunwayName>
+    <ApproachTransitionName />
+    <AltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AltitudeConstraints />
+  </SerializedAPPRPlan>
+  <DepartureAirportICAOCode>KDCA</DepartureAirportICAOCode>
+  <DestinationAirportICAOCode>KJFK</DestinationAirportICAOCode>
+  <CruiseAltitude>19000</CruiseAltitude>
+  <DescentRate>1500</DescentRate>
+  <TODDistance>73.00398</TODDistance>
+  <ActiveRouteWpts />
+  <PlanETESeconds>3314.8268896</PlanETESeconds>
+  <PlanGrndSpeed>250</PlanGrndSpeed>
+  <PlanDistance>229.822586</PlanDistance>
+  <Name>E:\entertainment\games\X-Plane 11 Beta\Output\FMS plans\KDCA - KJFK</Name>
+  <Type>IFR</Type>
+</SerializableFltPlan>
