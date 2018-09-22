@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SerializableFltPlan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SerializedAPPRPlan>
+    <AirportIdentifier>VGHS</AirportIdentifier>
+    <Name>I14</Name>
+    <Type>ILS</Type>
+    <RunwayName>RW14</RunwayName>
+    <ApproachTransitionName>LATIM</ApproachTransitionName>
+    <AltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AltitudeConstraints />
+  </SerializedAPPRPlan>
+  <DepartureAirportICAOCode>VGSY</DepartureAirportICAOCode>
+  <DestinationAirportICAOCode>VGHS</DestinationAirportICAOCode>
+  <CruiseAltitude>10000</CruiseAltitude>
+  <DescentRate>700</DescentRate>
+  <TODDistance>74.66223</TODDistance>
+  <ActiveRouteWpts>
+    <FPWpt>
+      <TrackCalculated>false</TrackCalculated>
+      <TrackDistanceCalculated>false</TrackDistanceCalculated>
+      <TagType>Unknown</TagType>
+      <TagId>0</TagId>
+      <Type>TOD</Type>
+      <OwnerType>Temporary</OwnerType>
+      <Identifier>TOD PT</Identifier>
+      <Name>TOD</Name>
+      <Via>DIRECT</Via>
+      <Position>
+        <Latitude>24.3023129</Latitude>
+        <Longitude>91.02867</Longitude>
+      </Position>
+      <Passed>false</Passed>
+      <Freq>0</Freq>
+      <AltitudeConstraint>NoRestriction</AltitudeConstraint>
+      <NavFix_Id xsi:nil="true" />
+      <TargetAltitudeCalculated>true</TargetAltitudeCalculated>
+      <FirstAltitude xsi:nil="true" />
+      <SecondAltitude xsi:nil="true" />
+      <ManualTermination>false</ManualTermination>
+      <MaxElevation>100</MaxElevation>
+      <TargetAltitude>10000</TargetAltitude>
+      <SpeedConstraint>NoRestriction</SpeedConstraint>
+      <FirstSpeed xsi:nil="true" />
+      <SecondSpeed xsi:nil="true" />
+      <TargetSpeed>180</TargetSpeed>
+      <TargetSpeedCalculated>true</TargetSpeedCalculated>
+      <Track>230</Track>
+      <TrackDistance>60.6403465</TrackDistance>
+      <TrackETE />
+      <MagVar>-0.5</MagVar>
+    </FPWpt>
+  </ActiveRouteWpts>
+  <PlanETESeconds>2706.6</PlanETESeconds>
+  <PlanGrndSpeed>180</PlanGrndSpeed>
+  <PlanDistance>103.4738</PlanDistance>
+  <Name>E:\entertainment\games\X-Plane 11 Beta\Output\FMS plans\VGSY - VGHS</Name>
+  <Type>IFR</Type>
+</SerializableFltPlan>
