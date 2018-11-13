@@ -13,15 +13,15 @@ Install these libraries. Some will be taken careof by the installer others you w
 
 Run X-Plane which will update your scenery_packs.ini and the new package should be on top like this.
 
-`SCENERY_PACK Custom Scenery/3D_people_library/`
-`SCENERY_PACK Custom Scenery/CDB-Library/`
-`SCENERY_PACK Custom Scenery/flags_of_the_world/`
-`SCENERY_PACK Custom Scenery/R2_Library/`
-`SCENERY_PACK Custom Scenery/ruscenery/`
-`SCENERY_PACK Custom Scenery/THE-FRUIT-STAND Aircraft Library v3.0/`
-`SCENERY_PACK Custom Scenery/world-models/`
-`SCENERY_PACK Custom Scenery/MisterX_Library/`
-`SCENERY_PACK Custom Scenery/OpenSceneryX/`
+SCENERY_PACK Custom Scenery/3D_people_library/
+SCENERY_PACK Custom Scenery/CDB-Library/
+SCENERY_PACK Custom Scenery/flags_of_the_world/
+SCENERY_PACK Custom Scenery/R2_Library/
+SCENERY_PACK Custom Scenery/ruscenery/
+SCENERY_PACK Custom Scenery/THE-FRUIT-STAND Aircraft Library v3.0/
+SCENERY_PACK Custom Scenery/world-models/
+SCENERY_PACK Custom Scenery/MisterX_Library/
+SCENERY_PACK Custom Scenery/OpenSceneryX/
 
 ###Install VGEG airport.
 -Extract S2VG-Library.zip into SCENERY_PACK Custom Scenery/
@@ -29,11 +29,11 @@ Run X-Plane which will update your scenery_packs.ini and the new package should 
 
 Run X-Plane and exit. Edit  C:\X-Plane 11\Custom Scenery\customscenery_packs.ini so that S2VG packages are above Global Airports. Example
 
-`SCENERY_PACK Custom Scenery/S2VG-Library/`
-`SCENERY_PACK Custom Scenery/S2VG VGEG Chittagong/`
-`SCENERY_PACK Custom Scenery/VGZR - ZIA Shahjalal Intl. Airport BANGLADESH/`
-`SCENERY_PACK Custom Scenery/Global Airports/`
-`SCENERY_PACK Custom Scenery/y_ortho_MidAtlantic/`
+SCENERY_PACK Custom Scenery/S2VG-Library/
+SCENERY_PACK Custom Scenery/S2VG VGEG Chittagong/
+SCENERY_PACK Custom Scenery/VGZR - ZIA Shahjalal Intl. Airport BANGLADESH/
+SCENERY_PACK Custom Scenery/Global Airports/
+SCENERY_PACK Custom Scenery/y_ortho_MidAtlantic/
 
 # Tech Support
 Join XPXBD Discord.
