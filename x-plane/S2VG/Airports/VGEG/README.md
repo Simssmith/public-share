@@ -1,4 +1,4 @@
-# S2VG VGEG  হযরত শাহ্‌জালাল আন্তর্জাতিক বিমানবন্দর  installation instructions
+# S2VG VGEG  হযরত শাহ্‌জালাল আন্তর্জাতিক বিমানবন্দর  Installation Instructions
 ### Install Custom Object Needed for VGEG
 Install these libraries. Some will be taken careof by the installer others you will have to copy them to C:\X-Plane 11\Custom Scenery
 1. [MisterX_Library](https://forums.x-plane.org/index.php?/files/file/28167-misterx-library-and-static-aircraft-extension/ "MisterX_Library")
