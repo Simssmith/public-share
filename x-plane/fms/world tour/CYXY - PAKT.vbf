@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SerializableFltPlan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SerializedAPPRPlan>
+    <AirportIdentifier>PAKT</AirportIdentifier>
+    <Name>I11-Z</Name>
+    <Type>ILS</Type>
+    <RunwayName>RW11</RunwayName>
+    <ApproachTransitionName />
+    <AltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AltitudeConstraints />
+  </SerializedAPPRPlan>
+  <DepartureAirportICAOCode>CYXY</DepartureAirportICAOCode>
+  <DestinationAirportICAOCode>PAKT</DestinationAirportICAOCode>
+  <CruiseAltitude>29000</CruiseAltitude>
+  <DescentRate>1200</DescentRate>
+  <TODDistance>113.795258</TODDistance>
+  <ActiveRouteWpts />
+  <PlanETESeconds>4880.7952479999994</PlanETESeconds>
+  <PlanGrndSpeed>290</PlanGrndSpeed>
+  <PlanDistance>338.944122</PlanDistance>
+  <Name>CYXY-PAKT</Name>
+  <Type>IFR</Type>
+</SerializableFltPlan>

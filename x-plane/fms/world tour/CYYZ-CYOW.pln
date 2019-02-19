@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+<Title>CYYZCYOW</Title>
+<FPType>IFR</FPType>
+<RouteType>HighAlt</RouteType>
+<CruisingAlt>21000</CruisingAlt>
+<DepartureID>CYYZ</DepartureID>
+<DepartureLLA>N43° 40' 36.19",W79° 37' 50.38",+000569.00</DepartureLLA>
+<DestinationID>CYOW</DestinationID>
+<DestinationLLA>N45° 19' 21.01",W75° 40' 2.16",+000377.00</DestinationLLA>
+<DeparturePosition>05</DeparturePosition>
+<DepartureName>LESTER B PEARSON INTL</DepartureName>
+<DestinationName>MACDONALDCARTIER INTL</DestinationName>
+<AppVersion>
+<AppVersionMajor>10</AppVersionMajor>
+<AppVersionBuild>61472</AppVersionBuild>
+</AppVersion>
+<ATCWaypoint id="CYYZ">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N43° 40' 36.19",W79° 37' 50.38",+000569.00</WorldPosition>
+<ICAO>
+<ICAOIdent>CYYZ</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+<ATCWaypoint id="CYOW">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N45° 19' 21.01",W75° 40' 2.16",+000377.00</WorldPosition>
+<ICAO>
+<ICAOIdent>CYOW</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

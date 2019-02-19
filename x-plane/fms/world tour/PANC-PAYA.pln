@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+<Title>PANCPAYA</Title>
+<FPType>IFR</FPType>
+<RouteType>HighAlt</RouteType>
+<CruisingAlt>29000</CruisingAlt>
+<DepartureID>PANC</DepartureID>
+<DepartureLLA>N61° 10' 26.96",W149° 59' 53.46",+000151.00</DepartureLLA>
+<DestinationID>PAYA</DestinationID>
+<DestinationLLA>N59° 30' 11.96",W139° 39' 36.95",+000040.00</DestinationLLA>
+<DeparturePosition>07R</DeparturePosition>
+<DepartureName>STEVENS ANCHORAGE INTL</DepartureName>
+<DestinationName>YAKUTAT</DestinationName>
+<AppVersion>
+<AppVersionMajor>10</AppVersionMajor>
+<AppVersionBuild>61472</AppVersionBuild>
+</AppVersion>
+<ATCWaypoint id="PANC">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N61° 10' 26.96",W149° 59' 53.46",+000151.00</WorldPosition>
+<ICAO>
+<ICAOIdent>PANC</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+<ATCWaypoint id="PAYA">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N59° 30' 11.96",W139° 39' 36.95",+000040.00</WorldPosition>
+<ICAO>
+<ICAOIdent>PAYA</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

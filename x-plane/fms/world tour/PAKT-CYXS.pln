@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+<Title>PAKTCYXS</Title>
+<FPType>IFR</FPType>
+<RouteType>HighAlt</RouteType>
+<CruisingAlt>29000</CruisingAlt>
+<DepartureID>PAKT</DepartureID>
+<DepartureLLA>N55° 21' 14.7",W131° 42' 40.42",+000092.00</DepartureLLA>
+<DestinationID>CYXS</DestinationID>
+<DestinationLLA>N53° 53' 2.53",W122° 40' 39.18",+002266.00</DestinationLLA>
+<DeparturePosition>11</DeparturePosition>
+<DepartureName>KETCHIKAN INTL</DepartureName>
+<DestinationName>PRINCE GEORGE</DestinationName>
+<AppVersion>
+<AppVersionMajor>10</AppVersionMajor>
+<AppVersionBuild>61472</AppVersionBuild>
+</AppVersion>
+<ATCWaypoint id="PAKT">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N55° 21' 14.7",W131° 42' 40.42",+000092.00</WorldPosition>
+<ICAO>
+<ICAOIdent>PAKT</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+<ATCWaypoint id="CYXS">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N53° 53' 2.53",W122° 40' 39.18",+002266.00</WorldPosition>
+<ICAO>
+<ICAOIdent>CYXS</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

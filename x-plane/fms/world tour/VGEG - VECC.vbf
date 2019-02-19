@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SerializableFltPlan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SerializedSTARPlan>
+    <AirportIdentifier>VECC</AirportIdentifier>
+    <Name>DOPI2G</Name>
+    <RunwayName>RW01R</RunwayName>
+    <EnrouteTransitionName>DOPID</EnrouteTransitionName>
+    <RunwayTransitionSTARId>0</RunwayTransitionSTARId>
+    <CommonRouteSTARId>33381</CommonRouteSTARId>
+    <EnrouteTransitionSTARId>0</EnrouteTransitionSTARId>
+    <AltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstraints />
+    <AtOrAboveAltitudeConstraintedWpts />
+  </SerializedSTARPlan>
+  <SerializedAPPRPlan>
+    <AirportIdentifier>VECC</AirportIdentifier>
+    <Name>I01RZ</Name>
+    <Type>ILS</Type>
+    <RunwayName>RW01R</RunwayName>
+    <ApproachTransitionName />
+    <AltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AltitudeConstraints />
+  </SerializedAPPRPlan>
+  <DepartureAirportICAOCode>VGEG</DepartureAirportICAOCode>
+  <DestinationAirportICAOCode>VECC</DestinationAirportICAOCode>
+  <CruiseAltitude>18000</CruiseAltitude>
+  <DescentRate>1200</DescentRate>
+  <TODDistance>61.4127121</TODDistance>
+  <ActiveRouteWpts />
+  <PlanETESeconds>4122.8419568</PlanETESeconds>
+  <PlanGrndSpeed>250</PlanGrndSpeed>
+  <PlanDistance>283.338776</PlanDistance>
+  <Name>C:\X-Plane 11\Output\FMS plans\VGEG - VECC</Name>
+  <Type>IFR</Type>
+</SerializableFltPlan>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+<Title>CYVRCYYJ</Title>
+<FPType>VFR</FPType>
+<RouteType>HighAlt</RouteType>
+<CruisingAlt>4500</CruisingAlt>
+<DepartureID>CYVR</DepartureID>
+<DepartureLLA>N49° 11' 40.91",W123° 11' 2.28",+000013.00</DepartureLLA>
+<DestinationID>CYYJ</DestinationID>
+<DestinationLLA>N48° 38' 49.79",W123° 25' 32.68",+000064.00</DestinationLLA>
+<DeparturePosition>26L</DeparturePosition>
+<DepartureName>VANCOUVER INTL</DepartureName>
+<DestinationName>VICTORIA INTL</DestinationName>
+<AppVersion>
+<AppVersionMajor>10</AppVersionMajor>
+<AppVersionBuild>61472</AppVersionBuild>
+</AppVersion>
+<ATCWaypoint id="CYVR">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N49° 11' 40.91",W123° 11' 2.28",+000013.00</WorldPosition>
+<ICAO>
+<ICAOIdent>CYVR</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+<ATCWaypoint id="CYXX">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N49° 1' 30.97",W122° 21' 35.84",+000194.00</WorldPosition>
+<ICAO>
+<ICAOIdent>CYXX</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+<ATCWaypoint id="KBLI">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N48° 47' 33.7",W122° 32' 15.1",+000171.00</WorldPosition>
+<ICAO>
+<ICAOIdent>KBLI</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+<ATCWaypoint id="CYYJ">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N48° 38' 49.79",W123° 25' 32.68",+000064.00</WorldPosition>
+<ICAO>
+<ICAOIdent>CYYJ</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

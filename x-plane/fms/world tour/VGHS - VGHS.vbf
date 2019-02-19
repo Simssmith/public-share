@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SerializableFltPlan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SerializedSIDPlan>
+    <AirportIdentifier>VGHS</AirportIdentifier>
+    <Name>TEGA1A</Name>
+    <RunwayName>RW14</RunwayName>
+    <EnrouteTransitionName>TEGAK</EnrouteTransitionName>
+    <RunwayTransitionSIDId>0</RunwayTransitionSIDId>
+    <CommonRouteSIDId>47643</CommonRouteSIDId>
+    <EnrouteTransitionSIDId>0</EnrouteTransitionSIDId>
+    <AltitudeConstrainedWaypoints />
+    <AboveAltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AtBelowOrBetweenAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypointIdentifiers />
+    <AtOrBelowAltitudeConstraints />
+  </SerializedSIDPlan>
+  <SerializedAPPRPlan>
+    <AirportIdentifier>VGHS</AirportIdentifier>
+    <Name>I14</Name>
+    <Type>ILS</Type>
+    <RunwayName>RW14</RunwayName>
+    <ApproachTransitionName>OLPAS</ApproachTransitionName>
+    <AltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AltitudeConstraints />
+  </SerializedAPPRPlan>
+  <DepartureAirportICAOCode>VGHS</DepartureAirportICAOCode>
+  <DestinationAirportICAOCode>VGHS</DestinationAirportICAOCode>
+  <CruiseAltitude>4000</CruiseAltitude>
+  <DescentRate>1200</DescentRate>
+  <TODDistance>22.5473557</TODDistance>
+  <ActiveRouteWpts />
+  <PlanETESeconds>1439.5649872</PlanETESeconds>
+  <PlanGrndSpeed>210</PlanGrndSpeed>
+  <PlanDistance>83.9746246</PlanDistance>
+  <Name>VGHS-VGHS</Name>
+  <Type>IFR</Type>
+</SerializableFltPlan>

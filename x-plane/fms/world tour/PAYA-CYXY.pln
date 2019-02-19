@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+<Title>PAYACYXY</Title>
+<FPType>IFR</FPType>
+<RouteType>HighAlt</RouteType>
+<CruisingAlt>21000</CruisingAlt>
+<DepartureID>PAYA</DepartureID>
+<DepartureLLA>N59° 30' 11.96",W139° 39' 36.95",+000040.00</DepartureLLA>
+<DestinationID>CYXY</DestinationID>
+<DestinationLLA>N60° 42' 34.38",W135° 4' 2.19",+002317.00</DestinationLLA>
+<DeparturePosition>29</DeparturePosition>
+<DepartureName>YAKUTAT</DepartureName>
+<DestinationName>WHITEHORSE NIELSEN INTL</DestinationName>
+<AppVersion>
+<AppVersionMajor>10</AppVersionMajor>
+<AppVersionBuild>61472</AppVersionBuild>
+</AppVersion>
+<ATCWaypoint id="PAYA">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N59° 30' 11.96",W139° 39' 36.95",+000040.00</WorldPosition>
+<ICAO>
+<ICAOIdent>PAYA</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+<ATCWaypoint id="CYXY">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N60° 42' 34.38",W135° 4' 2.19",+002317.00</WorldPosition>
+<ICAO>
+<ICAOIdent>CYXY</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

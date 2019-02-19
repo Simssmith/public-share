@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+<Title>CYYJCYYC</Title>
+<FPType>IFR</FPType>
+<RouteType>HighAlt</RouteType>
+<CruisingAlt>28000</CruisingAlt>
+<DepartureID>CYYJ</DepartureID>
+<DepartureLLA>N48° 38' 49.79",W123° 25' 32.68",+000064.00</DepartureLLA>
+<DestinationID>CYYC</DestinationID>
+<DestinationLLA>N51° 7' 21.4",W114° 0' 48.04",+003606.00</DestinationLLA>
+<DeparturePosition>27</DeparturePosition>
+<DepartureName>VICTORIA INTL</DepartureName>
+<DestinationName>YYC CALGARY INTL</DestinationName>
+<AppVersion>
+<AppVersionMajor>10</AppVersionMajor>
+<AppVersionBuild>61472</AppVersionBuild>
+</AppVersion>
+<ATCWaypoint id="CYYJ">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N48° 38' 49.79",W123° 25' 32.68",+000064.00</WorldPosition>
+<ICAO>
+<ICAOIdent>CYYJ</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+<ATCWaypoint id="CYYC">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N51° 7' 21.4",W114° 0' 48.04",+003606.00</WorldPosition>
+<ICAO>
+<ICAOIdent>CYYC</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

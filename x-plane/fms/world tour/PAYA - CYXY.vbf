@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SerializableFltPlan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SerializedSIDPlan>
+    <AirportIdentifier>PAYA</AirportIdentifier>
+    <Name>FAKES4</Name>
+    <RunwayName>RW29</RunwayName>
+    <EnrouteTransitionName>FAKES</EnrouteTransitionName>
+    <RunwayTransitionSIDId>32896</RunwayTransitionSIDId>
+    <CommonRouteSIDId>0</CommonRouteSIDId>
+    <EnrouteTransitionSIDId>0</EnrouteTransitionSIDId>
+    <AltitudeConstrainedWaypoints />
+    <AboveAltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AtBelowOrBetweenAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypointIdentifiers />
+    <AtOrBelowAltitudeConstraints />
+  </SerializedSIDPlan>
+  <SerializedAPPRPlan>
+    <AirportIdentifier>CYXY</AirportIdentifier>
+    <Name>I32L</Name>
+    <Type>ILS</Type>
+    <RunwayName>RW32L</RunwayName>
+    <ApproachTransitionName>RETEV</ApproachTransitionName>
+    <AltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AltitudeConstraints />
+  </SerializedAPPRPlan>
+  <DepartureAirportICAOCode>PAYA</DepartureAirportICAOCode>
+  <DestinationAirportICAOCode>CYXY</DestinationAirportICAOCode>
+  <CruiseAltitude>21000</CruiseAltitude>
+  <DescentRate>1200</DescentRate>
+  <TODDistance>88.63223</TODDistance>
+  <ActiveRouteWpts>
+    <FPWpt>
+      <TrackCalculated>false</TrackCalculated>
+      <TrackDistanceCalculated>false</TrackDistanceCalculated>
+      <TagType>Unknown</TagType>
+      <TagId>0</TagId>
+      <Type>TOD</Type>
+      <OwnerType>Temporary</OwnerType>
+      <Identifier>TOD PT</Identifier>
+      <Name>TOD</Name>
+      <Via>DIRECT</Via>
+      <Position>
+        <Latitude>59.81353</Latitude>
+        <Longitude>-136.182968</Longitude>
+      </Position>
+      <Passed>false</Passed>
+      <Freq>0</Freq>
+      <AltitudeConstraint>NoRestriction</AltitudeConstraint>
+      <NavFix_Id xsi:nil="true" />
+      <TargetAltitudeCalculated>true</TargetAltitudeCalculated>
+      <FirstAltitude xsi:nil="true" />
+      <SecondAltitude xsi:nil="true" />
+      <ManualTermination>false</ManualTermination>
+      <MaxElevation>10100</MaxElevation>
+      <TargetAltitude>21000</TargetAltitude>
+      <SpeedConstraint>NoRestriction</SpeedConstraint>
+      <FirstSpeed xsi:nil="true" />
+      <SecondSpeed xsi:nil="true" />
+      <TargetSpeed>290</TargetSpeed>
+      <TargetSpeedCalculated>true</TargetSpeedCalculated>
+      <Track>23</Track>
+      <TrackDistance>70.3551941</TrackDistance>
+      <TrackETE />
+      <MagVar>21</MagVar>
+    </FPWpt>
+  </ActiveRouteWpts>
+  <PlanETESeconds>3245.3999999999996</PlanETESeconds>
+  <PlanGrndSpeed>290</PlanGrndSpeed>
+  <PlanDistance>198.3212</PlanDistance>
+  <Name>C:\X-Plane 11\Output\FMS plans\PAYA - CYXY</Name>
+  <Type>IFR</Type>
+</SerializableFltPlan>

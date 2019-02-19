@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+<Title>CYXSCYVR</Title>
+<FPType>IFR</FPType>
+<RouteType>HighAlt</RouteType>
+<CruisingAlt>29000</CruisingAlt>
+<DepartureID>CYXS</DepartureID>
+<DepartureLLA>N53° 53' 2.53",W122° 40' 39.18",+002266.00</DepartureLLA>
+<DestinationID>CYVR</DestinationID>
+<DestinationLLA>N49° 11' 40.91",W123° 11' 2.28",+000013.00</DestinationLLA>
+<DeparturePosition>15</DeparturePosition>
+<DepartureName>PRINCE GEORGE</DepartureName>
+<DestinationName>VANCOUVER INTL</DestinationName>
+<AppVersion>
+<AppVersionMajor>10</AppVersionMajor>
+<AppVersionBuild>61472</AppVersionBuild>
+</AppVersion>
+<ATCWaypoint id="CYXS">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N53° 53' 2.53",W122° 40' 39.18",+002266.00</WorldPosition>
+<ICAO>
+<ICAOIdent>CYXS</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+<ATCWaypoint id="CYVR">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N49° 11' 40.91",W123° 11' 2.28",+000013.00</WorldPosition>
+<ICAO>
+<ICAOIdent>CYVR</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

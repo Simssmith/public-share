@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SerializableFltPlan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SerializedSIDPlan>
+    <AirportIdentifier>PAKT</AirportIdentifier>
+    <Name>CETK6</Name>
+    <RunwayName>RW11</RunwayName>
+    <EnrouteTransitionName>ANN</EnrouteTransitionName>
+    <RunwayTransitionSIDId>0</RunwayTransitionSIDId>
+    <CommonRouteSIDId>32817</CommonRouteSIDId>
+    <EnrouteTransitionSIDId>0</EnrouteTransitionSIDId>
+    <AltitudeConstrainedWaypoints />
+    <AboveAltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AtBelowOrBetweenAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypointIdentifiers />
+    <AtOrBelowAltitudeConstraints />
+  </SerializedSIDPlan>
+  <SerializedAPPRPlan>
+    <AirportIdentifier>CYXS</AirportIdentifier>
+    <Name>I15</Name>
+    <Type>ILS</Type>
+    <RunwayName>RW15</RunwayName>
+    <ApproachTransitionName>XIGUP</ApproachTransitionName>
+    <AltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AltitudeConstraints />
+  </SerializedAPPRPlan>
+  <DepartureAirportICAOCode>PAKT</DepartureAirportICAOCode>
+  <DestinationAirportICAOCode>CYXS</DestinationAirportICAOCode>
+  <CruiseAltitude>29000</CruiseAltitude>
+  <DescentRate>1200</DescentRate>
+  <TODDistance>104.8643</TODDistance>
+  <ActiveRouteWpts>
+    <FPWpt>
+      <TrackCalculated>false</TrackCalculated>
+      <TrackDistanceCalculated>false</TrackDistanceCalculated>
+      <TagType>Unknown</TagType>
+      <TagId>0</TagId>
+      <Type>TOD</Type>
+      <OwnerType>Temporary</OwnerType>
+      <Identifier>TOD PT</Identifier>
+      <Name>TOD</Name>
+      <Via>DIRECT</Via>
+      <Position>
+        <Latitude>54.2661247</Latitude>
+        <Longitude>-124.812981</Longitude>
+      </Position>
+      <Passed>false</Passed>
+      <Freq>0</Freq>
+      <AltitudeConstraint>NoRestriction</AltitudeConstraint>
+      <NavFix_Id xsi:nil="true" />
+      <TargetAltitudeCalculated>true</TargetAltitudeCalculated>
+      <FirstAltitude xsi:nil="true" />
+      <SecondAltitude xsi:nil="true" />
+      <ManualTermination>false</ManualTermination>
+      <MaxElevation>5800</MaxElevation>
+      <TargetAltitude>29000</TargetAltitude>
+      <SpeedConstraint>NoRestriction</SpeedConstraint>
+      <FirstSpeed xsi:nil="true" />
+      <SecondSpeed xsi:nil="true" />
+      <TargetSpeed>250</TargetSpeed>
+      <TargetSpeedCalculated>true</TargetSpeedCalculated>
+      <Track>81</Track>
+      <TrackDistance>239.464844</TrackDistance>
+      <TrackETE />
+      <MagVar>19</MagVar>
+    </FPWpt>
+  </ActiveRouteWpts>
+  <PlanETESeconds>5225.9918032</PlanETESeconds>
+  <PlanGrndSpeed>290</PlanGrndSpeed>
+  <PlanDistance>362.916138</PlanDistance>
+  <Name>C:\X-Plane 11\Output\FMS plans\PAKT - CYXS</Name>
+  <Type>IFR</Type>
+</SerializableFltPlan>

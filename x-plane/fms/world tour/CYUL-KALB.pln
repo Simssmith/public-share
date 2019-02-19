@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+<Title>CYULKALB</Title>
+<FPType>IFR</FPType>
+<RouteType>HighAlt</RouteType>
+<CruisingAlt>28000</CruisingAlt>
+<DepartureID>CYUL</DepartureID>
+<DepartureLLA>N45° 28' 13.67",W73° 44' 27.37",+000118.00</DepartureLLA>
+<DestinationID>KALB</DestinationID>
+<DestinationLLA>N42° 44' 56.8",W73° 48' 7.1",+000285.00</DestinationLLA>
+<DeparturePosition>24R</DeparturePosition>
+<DepartureName>PIERRE ELLIOTT TRUDEAU INTL</DepartureName>
+<DestinationName>ALBANY INTL</DestinationName>
+<AppVersion>
+<AppVersionMajor>10</AppVersionMajor>
+<AppVersionBuild>61472</AppVersionBuild>
+</AppVersion>
+<ATCWaypoint id="CYUL">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N45° 28' 13.67",W73° 44' 27.37",+000118.00</WorldPosition>
+<ICAO>
+<ICAOIdent>CYUL</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+<ATCWaypoint id="KALB">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N42° 44' 56.8",W73° 48' 7.1",+000285.00</WorldPosition>
+<ICAO>
+<ICAOIdent>KALB</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

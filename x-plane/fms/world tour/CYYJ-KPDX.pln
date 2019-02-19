@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+<Title>CYYJKPDX</Title>
+<FPType>IFR</FPType>
+<RouteType>HighAlt</RouteType>
+<CruisingAlt>31000</CruisingAlt>
+<DepartureID>CYYJ</DepartureID>
+<DepartureLLA>N48° 38' 49.79",W123° 25' 32.68",+000064.00</DepartureLLA>
+<DestinationID>KPDX</DestinationID>
+<DestinationLLA>N45° 35' 19.35",W122° 35' 48.73",+000031.00</DestinationLLA>
+<DeparturePosition>09</DeparturePosition>
+<DepartureName>VICTORIA INTL</DepartureName>
+<DestinationName>PORTLAND INTL</DestinationName>
+<AppVersion>
+<AppVersionMajor>10</AppVersionMajor>
+<AppVersionBuild>61472</AppVersionBuild>
+</AppVersion>
+<ATCWaypoint id="CYYJ">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N48° 38' 49.79",W123° 25' 32.68",+000064.00</WorldPosition>
+<ICAO>
+<ICAOIdent>CYYJ</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+<ATCWaypoint id="KPDX">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N45° 35' 19.35",W122° 35' 48.73",+000031.00</WorldPosition>
+<ICAO>
+<ICAOIdent>KPDX</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SerializableFltPlan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SerializedSIDPlan>
+    <AirportIdentifier>VECC</AirportIdentifier>
+    <Name>BEMA2F</Name>
+    <RunwayName>RW01L</RunwayName>
+    <EnrouteTransitionName>BEMAK</EnrouteTransitionName>
+    <RunwayTransitionSIDId>0</RunwayTransitionSIDId>
+    <CommonRouteSIDId>47561</CommonRouteSIDId>
+    <EnrouteTransitionSIDId>0</EnrouteTransitionSIDId>
+    <AltitudeConstrainedWaypoints />
+    <AboveAltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AtBelowOrBetweenAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypointIdentifiers />
+    <AtOrBelowAltitudeConstraints />
+  </SerializedSIDPlan>
+  <SerializedAPPRPlan>
+    <AirportIdentifier>VGHS</AirportIdentifier>
+    <Name>I14</Name>
+    <Type>ILS</Type>
+    <RunwayName>RW14</RunwayName>
+    <ApproachTransitionName>AKEVO</ApproachTransitionName>
+    <AltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AltitudeConstraints />
+  </SerializedAPPRPlan>
+  <DepartureAirportICAOCode>VECC</DepartureAirportICAOCode>
+  <DestinationAirportICAOCode>VGHS</DestinationAirportICAOCode>
+  <CruiseAltitude>15000</CruiseAltitude>
+  <DescentRate>1200</DescentRate>
+  <TODDistance>73.58843</TODDistance>
+  <ActiveRouteWpts>
+    <FPWpt>
+      <TrackCalculated>false</TrackCalculated>
+      <TrackDistanceCalculated>false</TrackDistanceCalculated>
+      <TagType>Unknown</TagType>
+      <TagId>0</TagId>
+      <Type>TOD</Type>
+      <OwnerType>Temporary</OwnerType>
+      <Identifier>TOD PT</Identifier>
+      <Name>TOD</Name>
+      <Via>DIRECT</Via>
+      <Position>
+        <Latitude>23.4327526</Latitude>
+        <Longitude>89.75454</Longitude>
+      </Position>
+      <Passed>false</Passed>
+      <Freq>0</Freq>
+      <AltitudeConstraint>NoRestriction</AltitudeConstraint>
+      <NavFix_Id xsi:nil="true" />
+      <TargetAltitudeCalculated>true</TargetAltitudeCalculated>
+      <FirstAltitude xsi:nil="true" />
+      <SecondAltitude xsi:nil="true" />
+      <ManualTermination>false</ManualTermination>
+      <MaxElevation>0</MaxElevation>
+      <TargetAltitude>15000</TargetAltitude>
+      <SpeedConstraint>NoRestriction</SpeedConstraint>
+      <FirstSpeed xsi:nil="true" />
+      <SecondSpeed xsi:nil="true" />
+      <TargetSpeed>250</TargetSpeed>
+      <TargetSpeedCalculated>true</TargetSpeedCalculated>
+      <Track>58</Track>
+      <TrackDistance>56.0915527</TrackDistance>
+      <TrackETE />
+      <MagVar>-1</MagVar>
+    </FPWpt>
+  </ActiveRouteWpts>
+  <PlanETESeconds>2315.2314904</PlanETESeconds>
+  <PlanGrndSpeed>250</PlanGrndSpeed>
+  <PlanDistance>160.779984</PlanDistance>
+  <Name>C:\X-Plane 11\Output\FMS plans\VECC - VGHS</Name>
+  <Type>IFR</Type>
+</SerializableFltPlan>

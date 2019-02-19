@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SerializableFltPlan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SerializedSTARPlan>
+    <AirportIdentifier>PAYA</AirportIdentifier>
+    <Name>YAK3</Name>
+    <RunwayName>RW29</RunwayName>
+    <EnrouteTransitionName>FAKES</EnrouteTransitionName>
+    <RunwayTransitionSTARId>0</RunwayTransitionSTARId>
+    <CommonRouteSTARId>23968</CommonRouteSTARId>
+    <EnrouteTransitionSTARId>0</EnrouteTransitionSTARId>
+    <AltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstraints />
+    <AtOrAboveAltitudeConstraintedWpts />
+  </SerializedSTARPlan>
+  <SerializedAPPRPlan>
+    <AirportIdentifier>PAYA</AirportIdentifier>
+    <Name>R29</Name>
+    <Type>RNAV</Type>
+    <RunwayName>RW29</RunwayName>
+    <ApproachTransitionName>CIMUF</ApproachTransitionName>
+    <AltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AltitudeConstraints />
+  </SerializedAPPRPlan>
+  <DepartureAirportICAOCode>PANC</DepartureAirportICAOCode>
+  <DestinationAirportICAOCode>PAYA</DestinationAirportICAOCode>
+  <CruiseAltitude>29000</CruiseAltitude>
+  <DescentRate>1200</DescentRate>
+  <TODDistance>143.8255</TODDistance>
+  <ActiveRouteWpts />
+  <PlanETESeconds>6378.5408472</PlanETESeconds>
+  <PlanGrndSpeed>290</PlanGrndSpeed>
+  <PlanDistance>502.9449</PlanDistance>
+  <Name>C:\X-Plane 11\Output\FMS plans\PANC - PAYA</Name>
+  <Type>IFR</Type>
+</SerializableFltPlan>

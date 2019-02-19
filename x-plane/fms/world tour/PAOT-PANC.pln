@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>PAOT To PANC</Title>
+        <FPType>IFR</FPType>
+        <RouteType>HighAlt</RouteType>
+        <CruisingAlt>15100</CruisingAlt>
+        <DepartureID>PAOT</DepartureID>
+        <DepartureLLA>N66° 53' 6.01",W162° 35' 56.40",+000015.00</DepartureLLA>
+        <DestinationID>PANC</DestinationID>
+        <DestinationLLA>N61° 10' 26.40",W149° 59' 45.61",+000151.00</DestinationLLA>
+        <Descr>PAOT, PANC</Descr>
+        <DeparturePosition>0</DeparturePosition>
+        <DepartureName>WIEN MEML</DepartureName>
+        <DestinationName>STEVENS ANCHORAGE INTL</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>10</AppVersionMajor>
+            <AppVersionMinor>61637</AppVersionMinor>
+        </AppVersion>
+        <ATCWaypoint id="PAOT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N66° 53' 6.01",W162° 35' 56.40",+00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAOT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SQA">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N61° 05' 54.89",W155° 38' 4.49",+00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SQA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PANC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 10' 26.40",W149° 59' 45.61",+00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PANC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

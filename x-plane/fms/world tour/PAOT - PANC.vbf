@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SerializableFltPlan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SerializedSTARPlan>
+    <AirportIdentifier>PANC</AirportIdentifier>
+    <Name>AMOTT4</Name>
+    <RunwayName>RW07L</RunwayName>
+    <EnrouteTransitionName>SQA</EnrouteTransitionName>
+    <RunwayTransitionSTARId>0</RunwayTransitionSTARId>
+    <CommonRouteSTARId>23929</CommonRouteSTARId>
+    <EnrouteTransitionSTARId>23927</EnrouteTransitionSTARId>
+    <AltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstraints />
+    <AtOrAboveAltitudeConstraintedWpts />
+  </SerializedSTARPlan>
+  <SerializedAPPRPlan>
+    <AirportIdentifier>PANC</AirportIdentifier>
+    <Name>I07L</Name>
+    <Type>ILS</Type>
+    <RunwayName>RW07L</RunwayName>
+    <ApproachTransitionName>ENA</ApproachTransitionName>
+    <AltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AltitudeConstraints />
+  </SerializedAPPRPlan>
+  <DepartureAirportICAOCode>PAOT</DepartureAirportICAOCode>
+  <DestinationAirportICAOCode>PANC</DestinationAirportICAOCode>
+  <CruiseAltitude>28000</CruiseAltitude>
+  <DescentRate>1200</DescentRate>
+  <TODDistance>193.373032</TODDistance>
+  <ActiveRouteWpts />
+  <PlanETESeconds>11045.4</PlanETESeconds>
+  <PlanGrndSpeed>290</PlanGrndSpeed>
+  <PlanDistance>667.886536</PlanDistance>
+  <Name>PAOT-PANC</Name>
+  <Type>IFR</Type>
+</SerializableFltPlan>

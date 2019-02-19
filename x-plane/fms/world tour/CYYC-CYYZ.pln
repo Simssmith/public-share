@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+<Title>CYYCCYYZ</Title>
+<FPType>IFR</FPType>
+<RouteType>HighAlt</RouteType>
+<CruisingAlt>29000</CruisingAlt>
+<DepartureID>CYYC</DepartureID>
+<DepartureLLA>N51° 7' 21.4",W114° 0' 48.04",+003606.00</DepartureLLA>
+<DestinationID>CYYZ</DestinationID>
+<DestinationLLA>N43° 40' 36.19",W79° 37' 50.38",+000569.00</DestinationLLA>
+<DeparturePosition>17L</DeparturePosition>
+<DepartureName>YYC CALGARY INTL</DepartureName>
+<DestinationName>LESTER B PEARSON INTL</DestinationName>
+<AppVersion>
+<AppVersionMajor>10</AppVersionMajor>
+<AppVersionBuild>61472</AppVersionBuild>
+</AppVersion>
+<ATCWaypoint id="CYYC">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N51° 7' 21.4",W114° 0' 48.04",+003606.00</WorldPosition>
+<ICAO>
+<ICAOIdent>CYYC</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+<ATCWaypoint id="CYYZ">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N43° 40' 36.19",W79° 37' 50.38",+000569.00</WorldPosition>
+<ICAO>
+<ICAOIdent>CYYZ</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

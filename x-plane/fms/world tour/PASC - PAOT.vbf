@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SerializableFltPlan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SerializedAPPRPlan>
+    <AirportIdentifier>PAOT</AirportIdentifier>
+    <Name>I09</Name>
+    <Type>ILS</Type>
+    <RunwayName>RW09</RunwayName>
+    <ApproachTransitionName>OMPAE</ApproachTransitionName>
+    <AltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AltitudeConstraints />
+  </SerializedAPPRPlan>
+  <DepartureAirportICAOCode>PASC</DepartureAirportICAOCode>
+  <DestinationAirportICAOCode>PAOT</DestinationAirportICAOCode>
+  <CruiseAltitude>28000</CruiseAltitude>
+  <DescentRate>1200</DescentRate>
+  <TODDistance>102.427765</TODDistance>
+  <ActiveRouteWpts>
+    <FPWpt>
+      <TrackCalculated>false</TrackCalculated>
+      <TrackDistanceCalculated>false</TrackDistanceCalculated>
+      <TagType>Unknown</TagType>
+      <TagId>0</TagId>
+      <Type>TOD</Type>
+      <OwnerType>Temporary</OwnerType>
+      <Identifier>TOD PT</Identifier>
+      <Name>TOD</Name>
+      <Via>DIRECT</Via>
+      <Position>
+        <Latitude>67.77862</Latitude>
+        <Longitude>-160.238663</Longitude>
+      </Position>
+      <Passed>false</Passed>
+      <Freq>0</Freq>
+      <AltitudeConstraint>NoRestriction</AltitudeConstraint>
+      <NavFix_Id xsi:nil="true" />
+      <TargetAltitudeCalculated>true</TargetAltitudeCalculated>
+      <FirstAltitude xsi:nil="true" />
+      <SecondAltitude xsi:nil="true" />
+      <ManualTermination>false</ManualTermination>
+      <MaxElevation>3800</MaxElevation>
+      <TargetAltitude>28000</TargetAltitude>
+      <SpeedConstraint>NoRestriction</SpeedConstraint>
+      <FirstSpeed xsi:nil="true" />
+      <SecondSpeed xsi:nil="true" />
+      <TargetSpeed>210</TargetSpeed>
+      <TargetSpeedCalculated>true</TargetSpeedCalculated>
+      <Track>235</Track>
+      <TrackDistance>291.1705</TrackDistance>
+      <TrackETE />
+      <MagVar>18</MagVar>
+    </FPWpt>
+  </ActiveRouteWpts>
+  <PlanETESeconds>6747.3988896</PlanETESeconds>
+  <PlanGrndSpeed>210</PlanGrndSpeed>
+  <PlanDistance>393.598358</PlanDistance>
+  <Name>PASC-PAOT</Name>
+  <Type>IFR</Type>
+</SerializableFltPlan>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+<Title>CYXYPAKT</Title>
+<FPType>IFR</FPType>
+<RouteType>HighAlt</RouteType>
+<CruisingAlt>29000</CruisingAlt>
+<DepartureID>CYXY</DepartureID>
+<DepartureLLA>N60° 42' 34.38",W135° 4' 2.19",+002317.00</DepartureLLA>
+<DestinationID>PAKT</DestinationID>
+<DestinationLLA>N55° 21' 14.7",W131° 42' 40.42",+000092.00</DestinationLLA>
+<DeparturePosition>19</DeparturePosition>
+<DepartureName>WHITEHORSE NIELSEN INTL</DepartureName>
+<DestinationName>KETCHIKAN INTL</DestinationName>
+<AppVersion>
+<AppVersionMajor>10</AppVersionMajor>
+<AppVersionBuild>61472</AppVersionBuild>
+</AppVersion>
+<ATCWaypoint id="CYXY">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N60° 42' 34.38",W135° 4' 2.19",+002317.00</WorldPosition>
+<ICAO>
+<ICAOIdent>CYXY</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+<ATCWaypoint id="PAKT">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N55° 21' 14.7",W131° 42' 40.42",+000092.00</WorldPosition>
+<ICAO>
+<ICAOIdent>PAKT</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SerializableFltPlan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SerializedSTARPlan>
+    <AirportIdentifier>CYVR</AirportIdentifier>
+    <Name>LIONN1</Name>
+    <RunwayName>RW26L</RunwayName>
+    <EnrouteTransitionName>BOOTH</EnrouteTransitionName>
+    <RunwayTransitionSTARId>446</RunwayTransitionSTARId>
+    <CommonRouteSTARId>443</CommonRouteSTARId>
+    <EnrouteTransitionSTARId>0</EnrouteTransitionSTARId>
+    <AltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstraints />
+    <AtOrAboveAltitudeConstraintedWpts />
+  </SerializedSTARPlan>
+  <SerializedAPPRPlan>
+    <AirportIdentifier>CYVR</AirportIdentifier>
+    <Name>I26L</Name>
+    <Type>ILS</Type>
+    <RunwayName>RW26L</RunwayName>
+    <ApproachTransitionName />
+    <AltitudeConstrainedWaypoints />
+    <AtOrAboveAltitudeConstrainedWaypoints />
+    <AtOrBelowAltitudeConstrainedWaypoints />
+    <AltitudeConstraints />
+  </SerializedAPPRPlan>
+  <DepartureAirportICAOCode>CYXS</DepartureAirportICAOCode>
+  <DestinationAirportICAOCode>CYVR</DestinationAirportICAOCode>
+  <CruiseAltitude>29000</CruiseAltitude>
+  <DescentRate>1200</DescentRate>
+  <TODDistance>111.627853</TODDistance>
+  <ActiveRouteWpts />
+  <PlanETESeconds>4003.4867968</PlanETESeconds>
+  <PlanGrndSpeed>290</PlanGrndSpeed>
+  <PlanDistance>314.379364</PlanDistance>
+  <Name>C:\X-Plane 11\Output\FMS plans\CYXS - CYVR</Name>
+  <Type>IFR</Type>
+</SerializableFltPlan>
