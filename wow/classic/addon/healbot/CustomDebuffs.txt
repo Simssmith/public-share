@@ -1,3 +1,4 @@
 CustomDebuffs
 Weakened Soul~13~6788,18,4,false,0.3,0.5,0.7,3,,,,
 Forbearance~4~25771,18,3,false,0.3,0.5,0.7,3,,,,
+
