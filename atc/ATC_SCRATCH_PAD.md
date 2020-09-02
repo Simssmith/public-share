@@ -1,6 +1,6 @@
 # ATC Scratch pad                        
 
-|Info |Origin Airport | Destinattion Airport &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|Info |Departure Airport | Destinattion Airport &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---|---|
 | ICAO  |   |   |
 | Del  |   |   |
@@ -22,7 +22,7 @@
 
 
 
-|Info |Origin Airport | Destinattion Airport &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|Info |Departure Airport | Destinattion Airport &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---|---|
 | ICAO  |   |   |
 | Del  |   |   |
